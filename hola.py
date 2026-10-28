@@ -4,3 +4,4 @@ print("al intentar escribir nuevamente en aqui en la pestaña. me decía que el 
 print("pero cuando hice el add content y corri el archivo nuevamente me arrojaba un syntax error")
 print(" weird... ecplicame eso el viernes")
 print("esta muy interesante. y creo que ya le agarré la onda")
+print("tengo una pregunta... porque en git add tengo que poner git add (espacio) '.'??")
