@@ -1,2 +1,5 @@
-print('Hello World, Hello Alex')
-print('I really feel this is amazing')
+print("Hello World, let's start fresh")
+print("Intenté escribir desde Add-Content e hice un desmadre, en el archivo al parecer si estaba pero")
+print("al intentar escribir nuevamente en aqui en la pestaña. me decía que el achivo había cambiado")
+print("pero cuando hice el add content y corri el archivo nuevamente me arrojaba un syntax error")
+print(" weird... ecplicame eso el viernes")
